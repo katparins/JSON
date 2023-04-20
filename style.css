@@ -51,6 +51,11 @@ p {
   text-align: center;
 }
 
+a {
+  text-decoration: underline;
+  color: whitesmoke;
+}
+
 .container {
   margin: 0 auto;
   width: 75%;
@@ -77,11 +82,7 @@ p {
 
 .item {
   width: 100%;
-  margin: 50px;
-}
-
-.price {
-  color: red;
+  margin: 52px;
 }
 
 .sheep img {
